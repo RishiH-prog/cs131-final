@@ -1,0 +1,2 @@
+total_images_labeled,usable_images,train_images,test_images,active_images,abandoned_images,best_model,best_feature_type,best_test_accuracy
+59,59,45,14,34,25,svm_rbf,full_image_handcrafted,0.7142857142857143
